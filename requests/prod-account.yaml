@@ -1,0 +1,17 @@
+account_name: prod-account
+account_email: AWS-Production-18@proton.me
+
+organizational_unit: Custom
+
+sso_user_email: surajpawale11@proton.me
+sso_user_first_name: Suraj
+sso_user_last_name: Pawale
+
+account_tags:
+  Environment: production
+  Owner: platform-team
+  ManagedBy: AFT
+
+change_management_parameters:
+  change_requested_by: surajpawale11@proton.me
+  change_reason: Initial production account creation
